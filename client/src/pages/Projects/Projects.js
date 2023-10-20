@@ -120,7 +120,7 @@ const Projects = () => {
                     I am show all relevant information for user in this website.
                     </p>
                   </div>
-                  <a className="ad-btn" href="view">
+                  <a className="ad-btn" href="https://github.com/M4N4N-CH4UH4N/Portfolio.git">
                     View
                   </a>
                 </div>
