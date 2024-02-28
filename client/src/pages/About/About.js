@@ -19,7 +19,7 @@ const About = () => {
               <h1>About me</h1>
               <p>
                I'm a FullStack Developer and proficient in fundamental of
-               front-end languages and serer-side languages. And good 
+               front-end languages and server-side languages. And good 
                knowledge of MongoDB. I have completed 6 weeks internship
                as a frontend developer in IBM. And two internship completed
                with duration 1 month as a frontend developer. I have 
