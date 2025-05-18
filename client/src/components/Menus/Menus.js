@@ -3,7 +3,7 @@ import "./Menus.css";
 import Zoom from "react-reveal/Zoom";
 import Fade from "react-reveal/Fade";
 import { Link } from "react-scroll";
-import image from '../../assests/images/My picture.jpeg';
+import image from '../../assests/images/My_picture.png';
 import {
   FcAbout,
   FcBiotech,

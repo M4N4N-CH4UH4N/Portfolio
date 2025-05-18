@@ -1,7 +1,7 @@
 import React from "react";
 import { useTheme } from "../../context/ThemeContext";
 import Typewriter from "typewriter-effect";
-import Resume from "../../assests/docs/Manan chauhan CV.pdf";
+import Resume from "../../assests/docs/Manan Software Developer.pdf";
 // import Resume from "../../assests/docs/Manan_resume.jpg";
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import "./home.css";
@@ -32,7 +32,7 @@ const Home = () => {
                   strings: [
                     "FullStack Developer!",
                     "Mern Stack Developer!",
-                    "React  developer!",
+                     "Software  developer!",
                   ],
                   autoStart: true,
                   loop: true,

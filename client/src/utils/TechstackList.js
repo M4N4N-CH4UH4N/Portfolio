@@ -80,14 +80,26 @@ export const TechstackList = [
     icon: SiC,
 
   },
+
   {
     _id: 13,
-    name: "C++",
-  },
-  {
-    _id: 14,
     name: "JAVA",
     icon: FaJava
+  },
+   {
+    _id: 14,
+    name: "OOPS",
+  
+  },
+   {
+    _id: 14,
+    name: "Postman",
+  
+  },
+     {
+    _id: 14,
+    name: "Jira",
+  
   },
  
 ];
